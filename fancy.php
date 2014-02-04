@@ -2,7 +2,7 @@
 /*
 Plugin Name: Fancy for WordPress
 Plugin URI: http://wordpress.org/plugins/fancy
-Description: Thig plugin allows you to easily embed a Fancy Anywhere widget in your post.
+Description: Easily embed a product on Fancy into your posts.
 Version: 0.9.0
 Author: Thing Daemon, Inc.
 Author URI: http://fancy.com
